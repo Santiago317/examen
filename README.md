@@ -12,3 +12,5 @@ Variedad: no aplica porque no existe una manera de estructurar los datos.
 Valor: los datos registrados que captan de movimientos tienen que estar siempre presentes porque son de su funcionalidad.
 
 El diagrama ETL no aplica para nuestro proyecto por que no recabamos suficientes datos.
+
+Profe, nos retrasamos en subir nuestro archivo, lo que pasa que nos apareció un error que jamás habíamos visto y tuvimos que investigar como se resolvia y eso nos retraso por que ya habiamos creado otro repositorio que ya estaba casi terminado, solo que no actualizaba y por consiguiente no se guardo nada.
