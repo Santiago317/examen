@@ -11,4 +11,4 @@ Volumen: se requiere de varios sensores de movimiento.
 Variedad: no aplica porque no existe una manera de estructurar los datos.
 Valor: los datos registrados que captan de movimientos tienen que estar siempre presentes porque son de su funcionalidad.
 
-
+El diagrama ETL no aplica para nuestro proyecto por que no recabamos suficientes datos.
